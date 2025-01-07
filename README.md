@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Uniful
-- 👀 I’m interested in you.
+- 👋 Hi, I’m @Uniful.
 - 🌱 I like to do meaningful things.
 
 <!---
