@@ -1,8 +1,10 @@
-Python & C · Software Developer · 42 student in Nice, France  
-Developer with a background in pharmacy and chemical engineering.  
+💻 Software Development (42 student) C, Python, Linux, Git, GitHub
+🧪 Master's Degree in Chemical Technology
+💊 Medical High School Graduate (Pharmacy Technician)
+🚀 Projects: minishell, philosophers, push_swap, Codexion, a_maze_ing
+🔬 Interested in healthcare, biotech, scientific, industrial and data-driven software systems.
 
 Currently open to job opportunities (on-site/remote)  
-Interested in healthcare, scientific, industrial, data-driven and mission-critical software systems.
 
 
 <!---
