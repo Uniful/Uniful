@@ -1,5 +1,9 @@
 Python & C · Software Developer · 42 student in Nice, France  
-Currently open to job opportunities (on-site/remote)
+Developer with a background in pharmacy and chemical engineering.  
+
+Currently open to job opportunities (on-site/remote)  
+Interested in healthcare, scientific, industrial, data-driven and mission-critical software systems.
+
 
 <!---
 Uniful/Uniful is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
