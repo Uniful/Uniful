@@ -1,4 +1,4 @@
-Python & C · Software Developer · 42 student in Nice, France
+Python & C · Software Developer · 42 student in Nice, France  
 Currently open to job opportunities (on-site/remote)
 
 <!---
